@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to Bangalore</title>
+    <title>Welcome to Mysore</title>
     <style>
         body {
             margin: 0;
