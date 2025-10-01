@@ -40,7 +40,7 @@
 </head>
 <body>
     <div class="welcome-box">
-        <h1>Welcome to Karnataka!</h1>
+        <h1>Welcome to India!</h1>
         <p>The Garden City awaits you with open arms. 🌸🌳<br>
         Enjoy your stay and explore the vibrant culture.</p>
     </div>
