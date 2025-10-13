@@ -9,7 +9,7 @@ RUN mvn dependency:go-offline -B
 # Copy the entire project source
 COPY src ./src
 
-# Build the application
+# Build the app
 RUN mvn package
 
 # Stage 2: Deployment stage
