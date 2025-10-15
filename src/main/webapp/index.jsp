@@ -10,7 +10,7 @@
             padding: 0;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(to right, #00c6ff, #0072ff);
-            color: white;
+            color: red;
             text-align: center;
             height: 100vh;
             display: flex;
